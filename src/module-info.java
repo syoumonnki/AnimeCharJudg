@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author syoum
+ *
+ */
+module animeCharJudg {
+}
